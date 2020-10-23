@@ -14,11 +14,19 @@ This project is about the management system of Experian.
     
 2.2 Sign Up
 
+    If you do not have an account, you can sign up in this page.
+
 2.3 Home
+
+    Home of Customer module.
 
 2.4 Reports & Scores
 
+    To see your reports and scores of your personal credit.
+
 2.5 Identity Theft Protection
+
+    To help if you have thought your info was 
 
 2.6 Credit Cards & Loans
 
