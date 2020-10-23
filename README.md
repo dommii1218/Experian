@@ -4,9 +4,9 @@ This project is about the management system of Experian.
 
 ## Module
 
-1. Home
+### 1. Home
 
-2. Customer
+### 2. Customer
 
 2.1 Sign In
 
@@ -26,7 +26,7 @@ This project is about the management system of Experian.
 
 2.8 Education
 
-3. Business
+### 3. Business
 
 3.1 Sign In
 
@@ -42,7 +42,7 @@ This project is about the management system of Experian.
 
     To manage your business.
 
-4. Admin
+### 4. Admin
 
 4.1 Log In
 
@@ -54,4 +54,4 @@ This project is about the management system of Experian.
     
 4.2.2 Manage Business
 
-5. About Us
+### 5. About Us
